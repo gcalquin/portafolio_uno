@@ -1,0 +1,28 @@
+body * {
+ /* border: 1px solid red; */
+ font-family: 'Cabin', sans-serif;
+}
+
+/* Fuentes utilizadas
+  font-family: 'Lobster', sans-serif;
+   font-family: 'Cabin', sans-serif; */
+
+.formato-logo-superior {
+     font-family: 'Lobster', sans-serif;
+     color:#FFFFFF;
+     font-weight: 300;
+     font-size: 46px;
+}
+
+.nav-form-color {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+header {
+  background-image: url('../img/fotogcc.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10rem;
+}
